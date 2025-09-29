@@ -1,4 +1,4 @@
-# HR_analytics_dashboard (Interactive Dashvoard creation using MS Excel and Microsoft Power BI)
+# HR_analytics_dashboard (Interactive Dashboard creation using MS Excel and Microsoft Power BI)
 ## Project Objective 
 A Power BI dashboard analyzing the HR_Data dataset to uncover factors that affect attrition.
 
